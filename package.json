@@ -1,0 +1,22 @@
+{
+  "name": "sergiivelykodnyi.github.io",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiivelykodnyi/sergiivelykodnyi.github.io.git"
+  },
+  "author": "Sergii Velykodnyi",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/sergiivelykodnyi/sergiivelykodnyi.github.io/issues"
+  },
+  "homepage": "sergiivelykodnyi.github.io",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-atomizer": "^3.0.7"
+  }
+}
