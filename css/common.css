@@ -42,12 +42,6 @@ body {
   line-height: var(--line-height-large);
 }
 
-@media (min-width: 768px) {
-  body {
-    font-size: var(--font-size-medium);
-  }
-}
-
 .container {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
@@ -82,7 +76,6 @@ h5 {
   margin: 3rem 0 1.38rem;
   font-family: var(--font-family-sans-serif);
   line-height: var(--line-height-small);
-  /* letter-spacing: 0.075rem; */
 }
 
 h1 {
